@@ -10,3 +10,7 @@ mlr.py - This contains code for our Machine Learning model to predict Number of 
 app.py - This contains Flask APIs and computes the precited value based on our model and returns it.
 
 templates - This folder contains the HTML template to allow user to enter the value and predict the output .
+
+
+• If you want to view the deployed model, click on the following link:<br />
+https://uber-ride-prediction.herokuapp.com/
