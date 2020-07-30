@@ -5,7 +5,7 @@ This is a demo project.
 
 This project has three major parts :
 
-mlr.py - This contains code fot our Machine Learning model to predict Number of Weekly rides data in 'taxi.csv' file.
+mlr.py - This contains code for our Machine Learning model to predict Number of Weekly rides, data in 'taxi.csv' file.
 
 app.py - This contains Flask APIs and computes the precited value based on our model and returns it.
 
