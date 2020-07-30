@@ -2,7 +2,8 @@
 This is a demo project.
 
 <h3>Project Structure</h3>
-This project has four major parts :
+
+This project has three major parts :
 
 mlr.py - This contains code fot our Machine Learning model to predict Number of Weekly rides data in 'taxi.csv' file.
 
